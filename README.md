@@ -21,6 +21,7 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 | Project | Description |
 |--------|-------------|
 | [**KickVerse**](https://github.com/RajasDeshpande/Kickverse) | A website made using HTML and CSS as a part of a college assignment. |
+| [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
 
 ---
 
