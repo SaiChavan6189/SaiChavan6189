@@ -67,5 +67,5 @@ I am a passionate developer specializing in Python, Machine Learning, and High-P
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sai2008chavan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaiChavan6189&theme=dark)](https://git.io/streak-stats)
 ---
